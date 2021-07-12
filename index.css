@@ -1,0 +1,30 @@
+body, html{
+  height:100%;
+width:100%;
+margin:0;
+color:white;
+}
+
+.hero-text{
+  text-align:center;
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%, -50%);
+color:white:
+}
+button{
+  background-color:red;
+width: 15px 35px;
+  color:white;
+}
+
+.hero-image{
+  
+ height: 100%;
+width:100%;
+background-image:url("https://images.pexels.com/photos/2173872/pexels-photo-2173872.jpeg?cs=srgb&dl=pexels-alexas-fotos-2173872.jpg&fm=jpg");
+  background-position:center;
+background-size:cover;
+position:relative;
+ background-repeat:no-repeat;
